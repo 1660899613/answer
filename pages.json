@@ -1,0 +1,41 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/ranking/ranking",
+			"style": {
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/end/end",
+			"style": {}
+
+		}, {
+			"path": "pages/answer/answer",
+			"style": {
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/info/info",
+			"style": {}
+		},{
+			"path": "pages/over/over",
+			"style": {}
+		
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "线上知识竞赛",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

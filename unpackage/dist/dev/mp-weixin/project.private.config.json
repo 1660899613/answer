@@ -1,0 +1,36 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "end",
+          "pathName": "pages/end/end",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "排名",
+          "pathName": "pages/ranking/ranking",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "答题",
+          "pathName": "pages/answer/answer",
+          "query": "sid=578&gid=1239",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
